@@ -12,14 +12,14 @@
 	**> Reasons:** Disorders like BPPV disrupt the normal functioning of the inner ear, causing dizziness.<br>
 	**> Prevention:** Consult with an ear specialist if you experience persistent dizziness. Certain exercises can help manage BPPV.
 ### 5. **Anemia:**
-	**> Reasons:** Insufficient iron affects the production of red blood cells, reducing oxygen delivery to the body.<br>
-	**> Prevention:** Consume iron-rich foods such as red meat, beans, and leafy greens. Iron supplements may be recommended in severe cases.
+**> Reasons:** Insufficient iron affects the production of red blood cells, reducing oxygen delivery to the body.<br>
+**> Prevention:** Consume iron-rich foods such as red meat, beans, and leafy greens. Iron supplements may be recommended in severe cases.
 ### 6. **Medication Side Effects:**
-	**> Reasons:** Some medications can cause dizziness as a side effect.<br>
-	**> Prevention:** Discuss medication concerns with your healthcare provider. They might adjust your dosage or recommend alternative medications.
+**> Reasons:** Some medications can cause dizziness as a side effect.<br>
+**> Prevention:** Discuss medication concerns with your healthcare provider. They might adjust your dosage or recommend alternative medications.
 ### 7. **Stress or Anxiety:**
-	**> Reasons:** Emotional stress can trigger physical symptoms, including dizziness.<br>
-	**> Prevention:** Practice stress-management techniques like deep breathing, meditation, or yoga. Seek professional help if needed.
+**> Reasons:** Emotional stress can trigger physical symptoms, including dizziness.<br>
+**> Prevention:** Practice stress-management techniques like deep breathing, meditation, or yoga. Seek professional help if needed.
 ### 8. **Infections or Illnesses:**
-    **> Reasons:** Viral or bacterial infections can affect various bodily functions, including balance.<br>
-    **> Prevention:** Maintain good hygiene, get vaccinated when appropriate, and seek prompt medical attention for illnesses.
+**> Reasons:** Viral or bacterial infections can affect various bodily functions, including balance.<br>
+**> Prevention:** Maintain good hygiene, get vaccinated when appropriate, and seek prompt medical attention for illnesses.
