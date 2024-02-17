@@ -1,5 +1,5 @@
 **What is Diabetes:** Diabetes is a chronic disease* that affects how your body turns food into energy.
-* `Chronic diasease:` A chronic disease is a condition that lasts for an extended period of time and requires ongoing medical treatment. (heart diasease, cancer, diabetes) [https://www.cdc.gov/chronicdisease/about/index.htm]
+* **Chronic diasease:** A chronic disease is a condition that lasts for an extended period of time and requires ongoing medical treatment. (heart diasease, cancer, diabetes) [https://www.cdc.gov/chronicdisease/about/index.htm]
 
 **How diabetes affects body:** Most of the food we eat is broken down into sugar (also called glucose) and released into our bloodstream. When our blood sugar goes up, it signals our pancreas* to release {insulin}. {Insulin acts like a key to let the blood sugar into our body’s cells for use as energy.} If we have diabetes, our body either doesn’t make enough insulin or can’t use the insulin it makes as well as it should. When there isn’t enough insulin or cells stop responding to insulin, too much blood sugar stays in your bloodstream.
 	* `Pancreas:` The pancreas is an organ in the back of your abdomen (belly). It is part of your digestive system. The pancreas is an organ and a gland. Glands are organs that produce and release substances in the body. The pancreas performs two main functions: Exocrine function: Produces substances (enzymes) that help with digestion. Endocrine function: Sends out hormones that control the amount of sugar in your bloodstream. [https://my.clevelandclinic.org/health/body/21743-pancreas]
@@ -10,7 +10,7 @@
 **What is dangerous level:** Blood sugar levels below 70 mg/dL are considered low and can be dangerous3. Blood sugar levels above 180 mg/dL are considered high and can be dangerous over time. [https://diabetesstrong.com/what-levels-of-blood-sugar-are-dangerous/]
 
 **Types of Diabetes:** There are three main types of diabetes: type-1, type-2, and gestational diabetes (diabetes while pregnant) [https://www.healthline.com/health/diabetes/types-of-diabetes]
-* `Chronology of types:` Type-1 > Type-2 > Gestational Diabetes
+* **Chronology of types:** Type-1 > Type-2 > Gestational Diabetes
 	* **Type-1 Diabetes:** Type-1 diabetes is believed to be an {autoimmune} condition. {This means your immune system mistakenly attacks and destroys the beta cells in your pancreas that produce insulin. The damage is permanent.} What prompts the attacks is not clear. There may be both genetic and environmental reasons. Lifestyle factors are not believed to play a role.
 	* **Type-2 Diabetes:** Type 2 diabetes starts out as insulin resistance. This means your body cannot use insulin efficiently, which causes your pancreas to produce more insulin until it cannot keep up with demand. Insulin production then decreases, which causes high blood sugar. he exact cause of type 2 diabetes is unknown. Contributing factors may include: genetics, a more sedentary lifestyle*, higher weight or obesity
 		* **Sedentary_Lifestyle:** A sedentary lifestyle is a type of lifestyle where an individual does not receive regular amounts of physical activity. Common sedentary activities include sitting for long periods of time, watching television or using a computer.
@@ -19,11 +19,11 @@
 
 
 **Test using GlocoMeter:**
-* `Normal Diabetes:`
-	* >6.1 before meal (7-8 hour fasting)
-	* >7.8 after 2 hours of having 1 glass Glucose
-* `Abnormal Diabetes:`
+* **Normal Diabetes:**
+	* > 6.1 before meal (7-8 hour fasting)
+	* > 7.8 after 2 hours of having 1 glass Glucose
+* **Abnormal Diabetes:**
 	* <= 7 before meal
 	* <= 11.1 after 2 hours of having 1 glass Glucose
-* `Impaired Fasting Glucose:` between (6.1 - 7.0) before meal
-* `Impaired Glucose Tolerance:` between (7.8 - 11.1) after 2 hours of having 1 glass Glucose
+* **Impaired Fasting Glucose:** between (6.1 - 7.0) before meal
+* **Impaired Glucose Tolerance:** between (7.8 - 11.1) after 2 hours of having 1 glass Glucose
