@@ -1,5 +1,5 @@
 ### **Reasons of Dizziness:**
-#### **Low Blood Pressure:**
+> #### **Low Blood Pressure:**
 	**> Reasons:** Dehydration*, Some heart problems, Issues with glands (like- thyroid), Septicemia (a severe blood infection), Lack of Nuterients (like- Vitamin B-12).<br>
 	**> Prevention:** Drink enough water, Eat small and low-carb meals (larger meals can cause a temporary drop in blood pressure, opt for smaller and more frequent meals).
 #### **Dehydration:**
