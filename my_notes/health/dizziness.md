@@ -21,5 +21,5 @@
 		> **Reasons   :** Emotional stress can trigger physical symptoms, including dizziness.
 		> **Prevention:** Practice stress-management techniques like deep breathing, meditation, or yoga. Seek professional help if needed.
 7. #### **Infections or Illnesses:**
-* **Reasons:** Viral or bacterial infections can affect various bodily functions, including balance.
-* **Prevention:** Maintain good hygiene, get vaccinated when appropriate, and seek prompt medical attention for illnesses.
+    7.1 **Reasons:** Viral or bacterial infections can affect various bodily functions, including balance.
+    7.2 **Prevention:** Maintain good hygiene, get vaccinated when appropriate, and seek prompt medical attention for illnesses.
