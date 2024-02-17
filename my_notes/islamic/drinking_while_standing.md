@@ -7,7 +7,7 @@
 * `(Muslim(3rd), Book of Drinks, 50(23-27))`
 * `(Bukhari(2nd), Book of Hajj, 1637)`
 ##### **In this position, we can conclude that- we can't drink anything while standing except ZamZam water. Many scolar says so- drinking anything while sitting is `Mustahab` (preferrable), but we can only drink ZamZam water while standing up.**
-#### **Besides ZamZam water, Prophet(saas) also drinks ordinary water**
+#### **Besides ZamZam water, Prophet(saas) drinks ordinary water while standing up as well**
 * `(Bukhari(7th), Book of Drinks, 5615)`
 * `(Musnad_Ahmad(1st), 797)`
 * `(Tirmidhi, 1881)`
