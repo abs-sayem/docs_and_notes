@@ -1,4 +1,4 @@
 # Powerful Verses of Quran
 
-1. যাদের বিরুদ্ধে যুদ্ধ করা হয় তাদেরকে যুদ্ধের অনুমতি দেয়া হল, কেননা তাদের প্রতি অত্যাচার করা হয়েছে। আল্লাহ তাদেরকে সাহায্য করতে অবশ্যই সক্ষম। (আল-হাজ্জ:৩৯). Permission [to fight] has been given to those who are being fought, because they were wronged. And indeed, Allah is competent to give them victory. (Al-Hajj:39)
-2. যে ব্যক্তি তার সম্পদ রক্ষা করতে গিয়ে নিহত হয়, সে শহীদ; যে ব্যক্তি তার পরিবার রক্ষা করতে গিয়ে নিহত হয়, সে শহীদ; এবং যে ব্যক্তি তার ধর্ম রক্ষা করতে গিয়ে নিহত হয়, সে শহীদ। (আবু-দাউদ: ৪৭৬২). Whoever is killed while protecting his wealth is a martyr, whoever is killed while protecting his family is a martyr, and whoever is killed while protecting his religion is a martyr. (Abu-Dawood:4762)
+1. যাদের বিরুদ্ধে যুদ্ধ করা হয় তাদেরকে যুদ্ধের অনুমতি দেয়া হল, কেননা তাদের প্রতি অত্যাচার করা হয়েছে। আল্লাহ তাদেরকে সাহায্য করতে অবশ্যই সক্ষম। - (আল-হাজ্জ:৩৯)
+2. যে ব্যক্তি তার সম্পদ রক্ষা করতে গিয়ে নিহত হয়, সে শহীদ; যে ব্যক্তি তার পরিবার রক্ষা করতে গিয়ে নিহত হয়, সে শহীদ; এবং যে ব্যক্তি তার ধর্ম রক্ষা করতে গিয়ে নিহত হয়, সে শহীদ। - (আবু-দাউদ: ৪৭৬২)
