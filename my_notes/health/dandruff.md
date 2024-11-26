@@ -1,20 +1,20 @@
 ### **What is Dandruff?**
 Dandruff consists of small flakes of dead skin cells that come from the scalp.
 ### **Why Does it Happen?**
-Our body and scalp have many oil glands `(sebaceous glands)`. When these glands produce too much oil, it can cause the `Malassezia Fungus` on our scalp to grow excessively.
-- **Malassezia Fungus** thrives in dark environments (like the scalp) and produces `fatty acids` from the oil, which it uses to grow.
-- Besides fatty acids, the oil also produces `erucic acid` and `oleic acid`, which can cause `irritation` and `redness` on the scalp.
+Our body and scalp have many oil glands `(Sebaceous Glands)`. When these glands produce too much oil, it can cause the `Malassezia Fungus` on our scalp to grow excessively.
+- **Malassezia Fungus** thrives in dark environments (like the scalp) and produces `Fatty Acids` from the oil, which it uses to grow.
+- Besides fatty acids, the oil also produces `Erucic Acid` and `Oleic Acid`, which can cause `Irritation` and `Redness` on the scalp.
 
 If it becomes very excessive (grissly), it is called `Seboric Dermatitis`, and in some cases - `Psoriasis`. *We have to be sure about the type to get treatment.*
 ### **Types of Dandruff:**
-If dandruff becomes very severe, it is called `Seborrheic Dermatitis`, and in some cases, it can be a sign of `psoriasis`. *It is important to correctly diagnose the condition for proper treatment.*
+If dandruff becomes very severe, it is called `Seborrheic Dermatitis`, and in some cases, it can be a sign of `Psoriasis`. *It is important to correctly diagnose the condition for proper treatment.*
 ### **Treatment:**
 1. Reduce or eliminate the use of oils.
 2. Use 
-   - **Anti-Fungal Shampoo:** Shampoos containing ingredients like - `ketoconazole`, `coal tar`, `salicylic acid`.
+   - **Anti-Fungal Shampoo:** Shampoos containing ingredients like - `Ketoconazole`, `Coal Tar`, `Salicylic Acid`.
    - **Zinc Pyrithione:** Shampoos with this ingredient help reduce the growth of the fungus.
-   - **Lotion or Spray:** Products with `anti-fungal substances` like - `coal tar solution`, `salicylic acid`, `retinoids`.
-   - If the itching is excessive, use lotions or sprays that contain `steroids`.
+   - **Lotion or Spray:** Products with `Anti-Fungal Substances` like - `Coal Tar Solution`, `Salicylic Acid`, `Retinoids`.
+   - If the itching is excessive, use lotions or sprays that contain `Steroids`.
 ### **How to Use Shampoo:**
 - Use the shampoo daily and leave it on for at least 5 minutes for better effectiveness.
 - As the infection decreases, you can increase the gap between uses to every other day, every two days, etc.
