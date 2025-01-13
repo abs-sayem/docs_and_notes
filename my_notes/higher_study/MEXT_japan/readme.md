@@ -3,8 +3,7 @@
 
 ### **Types of MEXT Scholarship:**
 1. **Embassy Track:** MEXT Scholarship through Embasy Bangladesh
-
-![Embassy Recommendation](screen_shots/embassy_recommendation.PNG)
+    ![Embassy Recommendation](screen_shots/embassy_recommendation.PNG)
 
 2. **University Track:** MEXT Scholarship through Japan University
     - a）University Recommendation is a type of selection that students are recommended to MEXT by the Japanese university which will accept you as a research student. The applicants submit their applications to Japanese Unviersities directly, and the  selected candidates are recommended to MEXT from each university. MEXT conducts a screening and selects scholarship grantees at the end of June. They normally arrive in Japan in the end of September.
@@ -15,16 +14,14 @@
 - There will be a newsletter published from the embasy and the Education Ministry of Bangladesh will publish it. We can then apply for the scholarship following the newsletter. `Normaly in April for the next year`
 
 #### **Courses and Scholarship Numbers (2025)**
-
-![Courses and Scholarship Numbers](screen_shots/newsleter1_2025.PNG)
+- ![Courses and Scholarship Numbers](screen_shots/newsleter1_2025.PNG)
 
 `Those who are applying for undergrad or any other program (except - Masters or PHD) have to apply through embasy track.`
 
 #### **Research Study (Masters and PHD)**
 
-**Fields of Study**
-
-![Fields of Study](screen_shots/fields_of_study.PNG)
+- **Fields of Study**
+    - ![Fields of Study](screen_shots/fields_of_study.PNG)
 
 **Eligibility to Apply**
 - Age below 35 as of April 1 of the scholarship receiving year.
