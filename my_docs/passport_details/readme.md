@@ -1,7 +1,7 @@
 Passport Applied: 13/01/2025 <br>
 Passport Type   : ePassport, validity - 10 years
 
-Applied Date: **23/01/2025 : 10.00 am**
+Applied Date: **23/01/2025 - 10.00 AM**
 
 #### **Ducuments Needed during Submission:**
 1. passport registration summary
