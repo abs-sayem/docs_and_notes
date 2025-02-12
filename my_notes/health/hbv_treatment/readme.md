@@ -34,7 +34,7 @@
         <td>Mar 2019</td><td></td><td>20 (15-37)</td><td>48 (30-65)</td><td></td><td>N (2.347/0.854)</td><td></td><td></td><td></td>
     </tr>
     <tr>
-        <td>Jul 2018</td><td>- (Undetected)</td><td></td><td>39 (0-50)</td><td>N (0.018/0.066)</td><td>N (4.277/0.776)</td><td></td><td></td><td>Teviral 0.5\n(till dec-18)</td>
+        <td>Jul 2018</td><td>- (Undetected)</td><td></td><td>39 (0-50)</td><td>N (0.018/0.066)</td><td>N (4.277/0.776)</td><td></td><td></td><td>Teviral 0.5<br>(till dec-18)</td>
     </tr>
     <tr>
         <td>Jan 2018</td><td>- (Undetected)</td><td></td><td>35 (0-50)</td><td></td><td>N (2.494/0.698)</td><td></td><td></td><td>Teviral 0.5</td>
