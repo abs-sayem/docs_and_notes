@@ -22,34 +22,34 @@
         <th>AFP</th>
     </tr>
     <tr>
-        <td>Feb 2025</td><td>- (Undetected)</td><td>24 (5-34)</td><td>39 (10-49)</td><td></td><td></td><td></td><td>~1.3/13.6</td><td></td>
+        <td>Feb 2025</td><td>(Undetected)</td><td>24 (5-34)</td><td>39 (10-49)</td><td></td><td></td><td></td><td>~1.3/13.6</td><td></td>
     </tr>
     <tr>
-        <td>Oct 2021</td><td>- (Undetected)</td><td>21 (5-34)</td><td>28 (0-55)</td><td></td><td></td><td></td><td></td><td></td>
+        <td>Oct 2021</td><td>(Undetected)</td><td>21 (5-34)</td><td>28 (0-55)</td><td></td><td></td><td></td><td></td><td></td>
     </tr>
     <tr>
         <td>Feb 2021</td><td></td><td>19 (0-34)</td><td>23 (10-49)</td><td></td><td>P (0.002/0.641)</td><td></td><td></td><td></td>
     </tr>
     <tr>
-        <td>Mar 2019</td><td></td><td>20 (15-37)</td><td>48 (30-65)</td><td></td><td>N (2.347/0.854)</td><td></td><td></td><td></td>
+        <td>Mar 2019</td><td></td><td>20 (15-37)</td><td>48 (30-65)</td><td></td><td>N (2.35/0.86)</td><td></td><td></td><td>No Med</td>
     </tr>
     <tr>
-        <td>Jul 2018</td><td>- (Undetected)</td><td></td><td>39 (0-50)</td><td>N (0.018/0.066)</td><td>N (4.277/0.776)</td><td></td><td></td><td>Teviral 0.5<br>(till dec-18)</td>
+        <td>Jul 2018</td><td>(Undetected)</td><td></td><td>39 (0-50)</td><td>N (0.02/0.07)</td><td>N (4.28/0.78)</td><td></td><td></td><td>Teviral 0.5<br>(till dec-18)</td>
     </tr>
     <tr>
-        <td>Jan 2018</td><td>- (Undetected)</td><td></td><td>35 (0-50)</td><td></td><td>N (2.494/0.698)</td><td></td><td></td><td>Teviral 0.5</td>
+        <td>Jan 2018</td><td>(Undetected)</td><td></td><td>35 (0-50)</td><td></td><td>N (2.50/0.70)</td><td></td><td></td><td>Teviral 0.5</td>
     </tr>
     <tr>
-        <td>Jul 2017</td><td>- (Undetected)</td><td></td><td>38 (0-50)</td><td></td><td>N (3.625/0.775)</td><td></td><td></td><td>Teviral 0.5</td>
+        <td>Jul 2017</td><td>(Undetected)</td><td></td><td>38 (0-50)</td><td></td><td>N (3.63/0.78)</td><td></td><td></td><td>Teviral 0.5</td>
     </tr>
     <tr>
-        <td>Dec 2016</td><td>- (Undetected)</td><td></td><td>40 (0-50)</td><td></td><td>N (2.14/0.70)</td><td></td><td></td><td>Teviral 0.5</td>
+        <td>Dec 2016</td><td>(Undetected)</td><td></td><td>40 (0-50)</td><td></td><td>N (2.14/0.70)</td><td></td><td></td><td>Teviral 0.5</td>
     </tr>
     <tr>
-        <td>Dec 2015</td><td>- (Undetected)</td><td></td><td>26 (0-50)</td><td></td><td></td><td></td><td></td><td>Teviral 0.5</td>
+        <td>Dec 2015</td><td>(Undetected)</td><td></td><td>26 (0-50)</td><td></td><td></td><td></td><td></td><td>Teviral 0.5</td>
     </tr>
     <tr>
-        <td>Jun 2015</td><td>- (Undetected)</td><td></td><td>26 (30-65)</td><td></td><td></td><td></td><td></td><td>Teviral 0.5</td>
+        <td>Jun 2015</td><td>(Undetected)</td><td></td><td>26 (30-65)</td><td></td><td></td><td></td><td></td><td>Teviral 0.5</td>
     </tr>
     <tr>
         <td>Nov 2014</td><td>1.118x10^2</td><td></td><td>42 (30-65)</td><td></td><td></td><td>1.0 (0.6-13)</td><td></td><td>Teviral 0.5</td>
