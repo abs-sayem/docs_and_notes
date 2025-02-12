@@ -7,11 +7,11 @@
 **AFP :** Alpha-Feto-Protein (Hormone Test)
 
 <table style="width:100%;">
-    <colgroup>
+    <!-- <colgroup>
         <col style="width: 10%; text-align: justify;">
         <col style="width: 70%; text-align: justify;">
         <col style="width: 20%; text-align: justify;">
-    </colgroup>
+    </colgroup> -->
     <tr>
         <th rowspan="2">Date</th>
         <th colspan="7">Tests</th>
