@@ -22,7 +22,7 @@
         <th>AFP</th>
     </tr>
     <tr>
-        <td>Feb 2025</td><td>- (Undetected)</td><td>24 (5-34)</td><td>39 (10-49)</td><td></td><td></td><td></td><td></td><td></td>
+        <td>Feb 2025</td><td>- (Undetected)</td><td>24 (5-34)</td><td>39 (10-49)</td><td></td><td></td><td></td><td>~1.3/13.6</td><td></td>
     </tr>
     <tr>
         <td>Oct 2021</td><td>- (Undetected)</td><td>21 (5-34)</td><td>28 (0-55)</td><td></td><td></td><td></td><td></td><td></td>
