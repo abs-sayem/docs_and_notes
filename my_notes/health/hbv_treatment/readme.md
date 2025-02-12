@@ -8,19 +8,24 @@
 
 <table>
     <tr>
-        <th>Date</th>
-        <th>Tests
-            <tr>
-                <th>HBV(DNA)</th>
-                <th>AST(SGOT)</th>
-                <th>ALT(SGPT)</th>
-                <th>HBeAg</th>
-                <th>Anti-HBe</th>
-                <th>Creatine</th>
-                <th>AFP</th>
-            </tr>
-        </th>
-        <th>Medication</th>
+        <th rowspan="2">Date</th>
+        <th colspan="7">Tests</th>
+        <th rowspan="2">Medication</th>
+    </tr>
+    <tr>
+        <th>HBV(DNA)</th>
+        <th>AST(SGOT)</th>
+        <th>ALT(SGPT)</th>
+        <th>HBeAg</th>
+        <th>Anti-HBe</th>
+        <th>Creatine</th>
+        <th>AFP</th>
+    </tr>
+    <tr>
+        <td>Feb 2025</td><td>-(Undetected)</td><td>24 (5-34)</td><td>39 (10-49)</td><td></td><td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+        <td>Oct 2021</td><td>-(Undetected)</td><td>21 (5-34)</td><td>28 (0-55)</td><td></td><td></td><td></td><td></td><td></td>
     </tr>
 </table>
 
