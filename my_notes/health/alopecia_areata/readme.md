@@ -11,12 +11,14 @@ Alopecia Areata is an autoimmune condition that causes hair loss. It occurs when
     <tr>
         <th>Appointment Date</th>
         <th>Medication</th>
-        <th>Remarks</th>    
+        <th>Remarks</th>
+        <th>Visual Condition</th>    
     </tr>
     <tr>
         <td>05/03/2025</td>
         <td>> Sol (topical) : Aluxidil 5% - two times daily for 1 month<br>> Tab (oral) : Viovel (5000 mcg) - (1 + 0 + 1) for 2 months</td>
         <td>Visit after 1 month</td>
+        <td>img src="mine(08.03.25).jpg width="20" height="30""</td>
     </tr>
 </table>
 
