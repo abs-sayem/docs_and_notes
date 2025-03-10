@@ -8,4 +8,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;1. Don't educate your children to be rich educate them to be happy so that when they grow up they will know the value of things and not their price.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2. Eat your food as medicine, otherwise, you will have to eat your medicine as food.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;3. The one who loves you will never leave you even if you have 100 reasons to give up, you will always find a reason to hold on.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;4. There is a big difference between being a human and being human 5. if you wanna go fast go alone, but if you want to go far go together.<br> - **`Steve Jobs`**
+&nbsp;&nbsp;&nbsp;&nbsp;4. There is a big difference between being a human and being human<br>
+&nbsp;&nbsp;&nbsp;&nbsp;5. If you wanna go fast go alone, but if you want to go far go together.<br> - **`Steve Jobs`**
