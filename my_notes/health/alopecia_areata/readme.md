@@ -22,5 +22,8 @@ Alopecia Areata is an autoimmune condition that causes hair loss. It occurs when
     </tr>
 </table>
 
-- **Prescription (05/03/2025):** 
-    ![Prescription](prescription_050325.png)
+### **My Gradual Condition:**
+![My Gradual Condition](my_gradual_condition.png)
+
+### **Prescription:**
+- **(05/03/2025)** ![Prescription](prescription_050325.png)
