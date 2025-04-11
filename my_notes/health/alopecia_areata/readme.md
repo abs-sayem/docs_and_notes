@@ -23,7 +23,7 @@ Alopecia Areata is an autoimmune condition that causes hair loss. It occurs when
     <tr>
         <td>10/04/2025</td>
         <td>> Sol (topical) : Dermasol 0.05% Ointment - two times daily for 15 days (1 + 0 + 1), then 15 days gap and then repeat the same for three months<br>> Sol (topical) : Remus 0.1% - (0 + 1 + 0) for 2 months</td>
-        <td>Visit after 2 month</td>
+        <td>Visit after 2 months</td>
         <td><img src="mine_090425.jpg" alt="Visual Condition1" width="100" height="130"></td>
     </tr>
 </table>
