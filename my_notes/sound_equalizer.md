@@ -23,3 +23,5 @@ In a 10-band equalizer, each vertical bar represents a specific frequency range 
 08. **`4 kHz`**: +10 (enhance presence and crispness without over-sharpening).
 09. **`8 kHz`**: +5 to +15 (brighten treble for detail and sparkle).
 10. **`16 kHz`**: +5 to +10 (add subtle airiness for openness).
+
+    ![Balanced Equalizer](balanced_equalizer.jpg)
