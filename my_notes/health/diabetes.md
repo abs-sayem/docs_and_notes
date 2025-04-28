@@ -21,10 +21,10 @@
 
 **Test using GlocoMeter:**
 * **Normal Diabetes:**
-	* `> 6.1 before meal (7-8 hour fasting)`
-	* `> 7.8 after 2 hours of having 1 glass Glucose`
+	* `< 6.1 before meal (7-8 hour fasting)`
+	* `< 7.8 after 2 hours of having 1 glass Glucose`
 * **Abnormal Diabetes:**
-	* `<= 7 before meal`
-	* `<= 11.1 after 2 hours of having 1 glass Glucose`
+	* `>= 7 before meal`
+	* `>= 11.1 after 2 hours of having 1 glass Glucose`
 * **Impaired Fasting Glucose:** between (6.1 - 7.0) before meal
 * **Impaired Glucose Tolerance:** between (7.8 - 11.1) after 2 hours of having 1 glass Glucose
