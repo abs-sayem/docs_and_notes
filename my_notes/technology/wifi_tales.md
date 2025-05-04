@@ -24,7 +24,7 @@ When we buy an internet package from an Internet Service Provider (ISP), they as
 - The ONU (Optical Network Unit) is the first device that connects to the ISP’s fiber-optic cable.
 - The router then distributes the internet to multiple devices.
 
-### **If you wonder:**
+### **If You Wonder:**
 **Can we get more than one public IP from ISP with a single package?**
 - It depends on the ISP. Some ISPs allow multiple public IPs, but usually, you need to pay extra for each additional IP.
 - Most home internet plans provide only one public IP, and the router uses NAT (Network Address Translation) to share it among multiple devices.
@@ -43,13 +43,13 @@ When we buy an internet package from an Internet Service Provider (ISP), they as
 **What is the difference between Public and Private IP? Why does this concept exist?**
 - **`Public IP:`** Assigned by the ISP, unique on the internet, used for external communication.
 - **`Private IP:`** Created by a router, used within a local network, not visible on the internet.<br>
-`For Example - to Understand Public vs. Private IP:`<br>
-Imagine a building with apartments:
+
+**`For Example (to Understand Public vs. Private IP:)`** Imagine a building with apartments:
 - The building address (public IP) is unique and used for deliveries.
 - Each apartment number (private IP) is used inside the building for organizing rooms.
 - The receptionist (router) ensures that packages (internet data) reach the correct apartment.
 
-**Final Thoughts:**
+**In Short:**
 - ONU is necessary to convert fiber signals.
 - Router creates private IPs, while switches only forward them.
 - Public IP is like a building address, and private IPs are like apartment numbers.
