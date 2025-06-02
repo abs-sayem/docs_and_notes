@@ -1,7 +1,7 @@
 ## **Lecture List**
 00. [Ramadaan - A Date with Dr. Zakir Naik)](https://www.youtube.com/playlist?list=PLLy9xTYtFm4Qq4qrXRFzlV_Se5I4yvpQY) - Everything about Ramadan.
 01. [আমাদের জীবনের উদ্দেশ্য কি?](https://www.youtube.com/watch?v=8V6D6D-jAhM&list=PLHun7ABvrklVdiOEIxhI5_Q-EYoNKeGKB&index=26) - The Purpose of our Life.
-03. [আমাদের সৃষ্টির উদ্দেশ্য কি?](https://www.youtube.com/watch?v=07qrh051Ujo&list=PLHun7ABvrklVdiOEIxhI5_Q-EYoNKeGKB&index=14) - The Purpose of Creating Us.
+03. [আমাদের সৃষ্টির উদ্দেশ্য কি?](https://www.youtube.com/watch?v=07qrh051Ujo&list=PLHun7ABvrklVdiOEIxhI5_Q-EYoNKeGKB&index=14) - The Purpose of Our Creation.
 04. [জীবনে কি হবেন?](https://www.youtube.com/watch?v=sp3q6foNMtY&list=PLHun7ABvrklVdiOEIxhI5_Q-EYoNKeGKB&index=1) - What will you be in Life?
 05. [ইসলামের আলোকে জ্ঞানের অন্বেষণ](https://www.youtube.com/watch?v=JeIq9Ct3F-4&list=PLHun7ABvrklVdiOEIxhI5_Q-EYoNKeGKB&index=21) - Seeking Knowledge in the Light of Islam.
 06. [আল কুরআন কি আল্লাহর বানী?](https://www.youtube.com/watch?v=XMSSedM0MtY) - Is the Quran God's Word?
@@ -20,5 +20,5 @@
 19. [ইসলাম কি মনবতার সমাধান?](https://www.youtube.com/watch?v=QpOH1k6LEa0&list=PLHun7ABvrklVdiOEIxhI5_Q-EYoNKeGKB&index=16) - Is Islam the Solution to Humanity?
 20. [ইসলাম সম্পর্কে ভুল ধারণাগুলোর সমাধান](https://www.youtube.com/watch?v=2NAoV686S8c&list=PLHun7ABvrklVdiOEIxhI5_Q-EYoNKeGKB&index=8) - Addressing the Misconceptions about Islam.
 21. [কোরআন ও আধুনিক বিজ্ঞান](https://www.youtube.com/watch?v=n7DG-uhrdG8&list=PLHun7ABvrklVdiOEIxhI5_Q-EYoNKeGKB&index=12) - Quran and Moderm Science: Conflict or Conciliation.
-22. [বিভিন্ন ধর্মগ্রন্থে মোহাম্মদ(স)](https://www.youtube.com/watch?v=r5mk-xmSo_4&list=PLHun7ABvrklVdiOEIxhI5_Q-EYoNKeGKB&index=7) - Prophet(saas) in Various Religious Scripters.
+22. [বিভিন্ন ধর্মগ্রন্থে মোহাম্মদ(স)](https://www.youtube.com/watch?v=r5mk-xmSo_4&list=PLHun7ABvrklVdiOEIxhI5_Q-EYoNKeGKB&index=7) - Prophet(saas) in Various Religious Scriptures.
 23. [নন-ভেজিটেরিয়ান খাবার কি নিষিদ্ধ?](https://www.youtube.com/watch?v=sFs_XQvSqF4&list=PLHun7ABvrklVdiOEIxhI5_Q-EYoNKeGKB&index=15) - Is Non-Vegetarian Food Permitted or Prohibited?
