@@ -1,5 +1,5 @@
 ## **Lecture List**
-00. [Ramadaan - A Date with Dr. Zakir Naik](https://www.youtube.com/playlist?list=PLLy9xTYtFm4Qq4qrXRFzlV_Se5I4yvpQY) - Everything about Ramadan.
+00. [Ramadaan - A Date with Dr. Zakir Naik](https://www.youtube.com/playlist?list=PLLy9xTYtFm4Qq4qrXRFzlV_Se5I4yvpQY) - Everything about Ramadaan. <u>*A must watch playlist if you eager to learn about Ramadaan.*</u>
 01. [আমাদের জীবনের উদ্দেশ্য কি?](https://www.youtube.com/watch?v=8V6D6D-jAhM&list=PLHun7ABvrklVdiOEIxhI5_Q-EYoNKeGKB&index=26) - The Purpose of our Life.
 03. [আমাদের সৃষ্টির উদ্দেশ্য কি?](https://www.youtube.com/watch?v=07qrh051Ujo&list=PLHun7ABvrklVdiOEIxhI5_Q-EYoNKeGKB&index=14) - The Purpose of Our Creation.
 04. [জীবনে কি হবেন?](https://www.youtube.com/watch?v=sp3q6foNMtY&list=PLHun7ABvrklVdiOEIxhI5_Q-EYoNKeGKB&index=1) - What will you be in Life?
