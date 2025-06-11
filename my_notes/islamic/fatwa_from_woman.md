@@ -3,10 +3,10 @@ In Islam, it is permissible for a Muslim woman to issue a fatwa (Islamic ruling)
 
 ### **Quranic and Hadith Justifications:**
 &nbsp;&nbsp;• The **Quran** encourages seeking knowledge for both men and women:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**"Say, Are those who know equal to those who do not know?"** *`(Surah Az-Zumar 39:9)`*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**"Say, Are those who know equal to those who do not know?"** *`(Surah Az-Zumar 39:9)`*
 
-&nbsp;&nbsp;• The **Prophet Muhammad** (peace be upon him) said:
-&nbsp;&nbsp;&nbsp;&nbsp;**"Seeking knowledge is an obligation upon every Muslim."** *`(Sunan Ibn Majah 224)`*
+&nbsp;&nbsp;• The **Prophet Muhammad** (peace be upon him) said:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**"Seeking knowledge is an obligation upon every Muslim."** *`(Sunan Ibn Majah 224)`*
 
 &nbsp;&nbsp;• **Aisha(RA)**, the wife of the Prophet, was one of the most knowledgeable scholars and issued fatwas that even senior male companions followed.
 
