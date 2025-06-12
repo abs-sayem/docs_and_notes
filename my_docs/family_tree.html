@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Interactive Family Tree</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; }
+    .node circle { fill: #89CFF0; stroke: #4682B4; stroke-width: 2px; }
+    .node text { font-size: 14px; pointer-events: none; }
+    .tooltip {
+      position: absolute;
+      background: #fff;
+      border: 1px solid #ccc;
+      padding: 8px;
+      border-radius: 5px;
+      pointer-events: none;
+      box-shadow: 0 0 6px rgba(0,0,0,0.2);
+    }
+  </style>
+</head>
+<body>
+  <h2>Family Tree - Interactive</h2>
+  <svg width="1200" height="800"></svg>
+  <script>
+    const data = {
+      name: "Abu Jafar Md. Saleh",
+      dob: "01/01/1965",
+      spouse: {
+        name: "Khadeja Begum",
+        dob: "01/01/1975"
+      },
+      children: [
+        {
+          name: "Khaleda Nahar Bristy",
+          dob: "01/01/1990",
+          spouse: { name: "Belal Hosen" },
+          children: [
+            { name: "Shila", dob: "01/01/2011" },
+            { name: "Shoily", dob: "01/01/2014" },
+            { name: "Takrim", dob: "01/01/2018" },
+            { name: "Nowrin", dob: "01/01/2021" }
+          ]
+        },
+        {
+          name: "Md Abu Bakar Siddiq Sayem",
+          dob: "01/01/1994",
+          spouse: { name: "Maharunnessa Liza", dob: "01/01/2004" }
+        },
+        {
+          name: "Md Abu Ayub Shakib",
+          dob: "01/01/1997"
+        },
+        {
+          name: "Ainunnahar Dolon",
+          dob: "01/01/2000",
+          spouse: { name: "Monzur Rahman" },
+          children: [
+            { name: "Akil", dob: "01/01/2016" },
+            { name: "Mabruka", dob: "01/01/2020" },
+            { name: "Mahzuba", dob: "01/01/2023" }
+          ]
+        },
+        { name: "Fahim Montasir Shihab", dob: "01/01/2003" },
+        { name: "Shahim Motasim Saif", dob: "01/01/2008" }
+      ]
+    };
+
+    const treeLayout = d3.tree().size([1100, 700]);
+    const root = d3.hierarchy(data, d => d.children);
+    treeLayout(root);
+
+    const svg = d3.select("svg");
+    const g = svg.append("g").attr("transform", "translate(50,50)");
+
+    g.selectAll("line.link")
+      .data(root.links())
+      .join("line")
+      .attr("class", "link")
+      .attr("x1", d => d.source.x)
+      .attr("y1", d => d.source.y)
+      .attr("x2", d => d.target.x)
+      .attr("y2", d => d.target.y)
+      .attr("stroke", "#999");
+
+    const tooltip = d3.select("body").append("div")
+      .attr("class", "tooltip")
+      .style("opacity", 0);
+
+    const nodes = g.selectAll("g.node")
+      .data(root.descendants())
+      .join("g")
+      .attr("class", "node")
+      .attr("transform", d => `translate(${d.x},${d.y})`);
+
+    nodes.append("circle")
+      .attr("r", 20)
+      .on("mouseover", (event, d) => {
+        let text = `<strong>${d.data.name}</strong><br>DOB: ${d.data.dob || 'N/A'}`;
+        if (d.data.spouse) text += `<br>Spouse: ${d.data.spouse.name}`;
+        tooltip.html(text)
+          .style("left", event.pageX + 15 + "px")
+          .style("top", event.pageY - 28 + "px")
+          .style("opacity", 1);
+      })
+      .on("mouseout", () => tooltip.style("opacity", 0));
+
+    nodes.append("text")
+      .attr("dy", 4)
+      .attr("y", 30)
+      .attr("text-anchor", "middle")
+      .text(d => d.data.name);
+  </script>
+</body>
+</html>
