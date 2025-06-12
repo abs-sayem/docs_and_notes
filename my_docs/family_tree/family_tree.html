@@ -25,7 +25,7 @@
   <script>
     const data = {
       name: "Abu Jafar Md. Saleh",
-      img:"photo.jpeg",
+      img:"assets/image/photo.jpeg",
       dob: "01/01/1965",
       spouse: {
         name: "Khadeja Begum",
@@ -45,9 +45,9 @@
         },
         {
           name: "Md Abu Bakar Siddiq Sayem",
-          img:"photo.jpeg",
+          img:"assets/image/mine_blur.jpg",
           dob: "01/01/1994",
-          spouse: { name: "Maharunnessa Liza", dob: "01/01/2004" }
+          spouse: { name: "Maharunnessa Liza"},
         },
         {
           name: "Md Abu Ayub Shakib",
@@ -87,7 +87,7 @@
 
     const tooltip = d3.select("body").append("div")
       .attr("class", "tooltip")
-      .style("opacity", 0);
+      .style("opacity", 0.5);
 
     const nodes = g.selectAll("g.node")
       .data(root.descendants())
@@ -98,13 +98,13 @@
     nodes.append("circle")
       .attr("r", 20)
       .on("mouseover", (event, d) => {
-        let text = `<img src=${d.data.img} alt="Profile Photo" width="50" height="50"/>
-<br><strong>${d.data.name}</strong><br>DOB: ${d.data.dob || 'N/A'}`;
-        if (d.data.spouse) text += `<br>Spouse: <strong>${d.data.spouse.name}</strong><br>DOB: ${d.data.dob || 'N/A'}`;
+        let text = `<img src=${d.data.img} alt="Profile Photo" width="80" height="80"/>
+                    <br><strong>${d.data.name}</strong><br>DOB: ${d.data.dob || 'N/A'}`;
+        if (d.data.spouse) text += `<br>Spouse: <strong>${d.data.spouse.name}</strong><br>DOB: ${d.data.spouse.dob || 'N/A'}`;
         tooltip.html(text)
           .style("left", event.pageX + 15 + "px")
           .style("top", event.pageY - 28 + "px")
-          .style("opacity", 1);
+          .style("opacity", 0.8);
       })
       .on("mouseout", () => tooltip.style("opacity", 0));
 
