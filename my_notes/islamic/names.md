@@ -25,8 +25,8 @@
 <table>
     <thead>
         <tr>
-            <th colspan="2">Boy Names</th>
-            <th colspan="2">Girl Names</th>
+            <th>Boy Names</th>
+            <th>Girl Names</th>
         </tr>
     </thead>
     <tbody>
