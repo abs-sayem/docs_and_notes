@@ -7,30 +7,6 @@
     </thead>
     <tbody>
         <tr>
-            <td><strong>Rahul</strong></td>
-            <td><strong>Aisha</strong></td>
-        </tr>
-        <tr>
-            <td><strong>Arjun</strong></td>
-            <td><strong>Fatima</strong></td>
-        </tr>
-        <tr>
-            <td><strong>Omar</strong></td>
-            <td><strong>Sophia</strong></td>
-        </tr>
-    </tbody>
-</table>
-
-
-<table>
-    <thead>
-        <tr>
-            <th>Boy Names</th>
-            <th>Girl Names</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
             <td>- <strong>Raiyan (রাইয়্যান)</strong> - A gate of Paradise, Lush (সজীব), Full of Life</td>
             <td>- </td>
         </tr>
