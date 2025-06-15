@@ -1,4 +1,4 @@
-<table border="1">
+<table>
     <thead>
         <tr>
             <th colspan="2">Boy Names</th>
@@ -7,7 +7,7 @@
     </thead>
     <tbody>
         <tr>
-            <td>- Raiyan (রাইয়্যান) - A gate of Paradise, Lush (সজীব), Full of Life</td>
+            <td>- <strong>Raiyan (রাইয়্যান)</strong> - A gate of Paradise, Lush (সজীব), Full of Life</td>
             <td>- </td>
         </tr>
         <tr>
