@@ -7,16 +7,16 @@ When we buy an internet package from an Internet Service Provider (ISP), they as
 - If I am the only user, I can connect my laptop or PC directly to the ISP’s cable using an Ethernet cable.
 - This means only one device will have internet access.
 
-    ![Single User Wired Connection](singleuser_wired_connection.PNG)
+    ![Single User Wired Connection](assets/wifi_img/singleuser_wired_connection.PNG)
 
 **Multiple Users Setup:**
 - If multiple people need internet (family, office, etc.), a router is required.
 - The router takes the single public IP from the ISP and creates multiple private IPs for different devices.
 - Devices can connect wirelessly (Wi-Fi) or wired (via Ethernet and switch).
 
-    ![Multi-User Wired Connection](multiuser_wired_connection.PNG)
+    ![Multi-User Wired Connection](assets/wifi_img/multiuser_wired_connection.PNG)
 
-    ![Multi-User Wireless Connection](multiuser_wireless_connection.PNG)
+    ![Multi-User Wireless Connection](assets/wifi_img/multiuser_wireless_connection.PNG)
 
 - **`Ethernet`** *is the cable that connects with our laptop or PC throuth a port (called ethernet port).*
 - **`Switch`** *is a device that has multiple ethernet port which allows multiple devices connected through ethernet machanism.*
