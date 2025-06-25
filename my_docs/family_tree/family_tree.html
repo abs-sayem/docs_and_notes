@@ -20,7 +20,7 @@
   </style>
 </head>
 <body>
-  <h2>Family Tree</h2>
+  <h2 style="text-align: center;">Family Tree</h2>
   <svg width="100%" height="auto"></svg>
   <script>
     const data = {
@@ -75,7 +75,7 @@
     const root = d3.hierarchy(data, d => d.children);
     const nodeCount = root.descendants().length;
     const depth = root.height + 1;
-    const width = nodeCount * 100;   // adjust horizontal spacing per node
+    const width = nodeCount * 96;   // adjust horizontal spacing per node
     const height = depth * 150;      // adjust vertical spacing per generation
     const treeLayout = d3.tree().size([width, height]);
     treeLayout(root);
