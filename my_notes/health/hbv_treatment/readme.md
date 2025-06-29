@@ -1,10 +1,31 @@
 ### **Overall Treatment at a Glance**
 
-**Anti-HBe:**
-- Test O.D < Cut Off = Positive
-- Test O.D > Cut Off = Negative
+**AST & ALT**
+- AST (Aspartate Aminotransferase) → Old name: SGOT (Serum Glutamic-Oxaloacetic Transaminase)
+- ALT (Alanine Aminotransferase) → Old name: SGPT (Serum Glutamic-Pyruvic Transaminase)
+- These are enzymes inside your liver cells.
+- Thet stay inside the cells → when liver cells are healthy.
+- They leak into blood → when liver cells are damaged → levels go up in a blood test.
 
-**AFP :** Alpha-Feto-Protein (Hormone Test)
+**HBV DNA**
+- Measures → how much actual Hepatitis B virus is in your blood  in copies per milliliter (copies/mL) or International Units (IU/mL).
+
+**HBeAG:** Active Replication?
+- Positive → active replication
+- Negative → no active replication✅
+
+**Anti-HBe:** Am I Protected?
+- Positive → body has made antibodies → virus isn't active✅
+- Negative → no antibodies → virus still active
+
+**Creatinine:**
+- Creatinine in blood tells us how well your kidneys are working.
+- High Creatinine can mean → Kidney disease or reduced kidney function, Severe dehydration, Certain medications that stress kidneys, Blocked urinary flow (rare).
+
+**AFP:** Alpha-Feto-Protein (Hormone Test)
+- Detect liver cancer (Hepatocellular Carcinoma, HCC) — common in chronic Hepatitis B & C patients.
+- If someone has chronic HBV, doctors often check AFP + ultrasound to see if liver cancer might be starting.
+- High AFP can be an early warning sign.
 
 <table style="width:100%;">
     <tr>
@@ -18,7 +39,7 @@
         <th>ALT(SGPT)</th>
         <th>HBeAg</th>
         <th>Anti-HBe</th>
-        <th>Creatine</th>
+        <th>Creatinine</th>
         <th>AFP</th>
     </tr>
     <tr>
