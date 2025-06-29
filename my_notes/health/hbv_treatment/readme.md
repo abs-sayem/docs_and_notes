@@ -1,5 +1,5 @@
 ## **Essential Terms:**
-***
+
 **AST & ALT**
 - AST (Aspartate Aminotransferase) → Old name: SGOT (Serum Glutamic-Oxaloacetic Transaminase)
 - ALT (Alanine Aminotransferase) → Old name: SGPT (Serum Glutamic-Pyruvic Transaminase)
