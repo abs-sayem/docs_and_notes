@@ -26,7 +26,7 @@
   <tr><td></td><td>ধনিয়া</td><td>৫০</td></tr>
 
   <!-- Separator -->
-  <tr><td colspan="3" align="center">=============================</td></tr>
+  <tr><td colspan="3" align="center">=================================</td></tr>
 
   <!-- Chicken Masala -->
   <tr><td>মুরগি মসলা</td><td>জিরা</td><td>৭০</td></tr>
@@ -42,7 +42,7 @@
   <tr><td></td><td>রসুন গুঁড়া</td><td>২৫</td></tr>
 
   <!-- Separator -->
-  <tr><td colspan="3" align="center">=============================</td></tr>
+  <tr><td colspan="3" align="center">=================================</td></tr>
 
   <!-- Beef Masala -->
   <tr><td>গরু মসলা</td><td>জিরা</td><td>৮০</td></tr>
@@ -58,7 +58,7 @@
   <tr><td></td><td>রসুন গুঁড়া</td><td>১৫</td></tr>
 
   <!-- Separator -->
-  <tr><td colspan="3" align="center">=============================</td></tr>
+  <tr><td colspan="3" align="center">=================================</td></tr>
 
   <!-- Mutton Masala -->
   <tr><td>খাসি মসলা</td><td>জিরা</td><td>৭৫</td></tr>
@@ -74,7 +74,7 @@
   <tr><td></td><td>রসুন গুঁড়া</td><td>২০</td></tr>
 
   <!-- Separator -->
-  <tr><td colspan="3" align="center">=============================</td></tr>
+  <tr><td colspan="3" align="center">=================================</td></tr>
 
   <!-- Fish Masala -->
   <tr><td>মাছ মসলা</td><td>জিরা</td><td>৬০</td></tr>
