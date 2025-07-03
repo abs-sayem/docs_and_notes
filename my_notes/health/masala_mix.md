@@ -8,8 +8,8 @@
   </tr>
 
   <!-- Garam Masala -->
-  <tr><td>গরম মসলা</td><td>তেজপাতা</td><td>৫০</td></tr>
-  <tr><td>(৫০০ গ্রাম)</td><td>শুকনা মরিচ</td><td>৩০</td></tr>
+  <tr><td>গরম মসলা (৫০০ গ্রাম)</td><td>তেজপাতা</td><td>৫০</td></tr>
+  <tr><td></td><td>শুকনা মরিচ</td><td>৩০</td></tr>
   <tr><td></td><td>মিষ্টি জিরা</td><td>৭০</td></tr>
   <tr><td></td><td>শাহী জিরা</td><td>৩০</td></tr>
   <tr><td></td><td>সরিষা</td><td>২০</td></tr>
