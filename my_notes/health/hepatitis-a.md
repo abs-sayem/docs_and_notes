@@ -94,6 +94,6 @@
 **Prevention:** Handwashing, safe drinking water, clean food.  
 **Diagnosis&nbsp;&nbsp;:** Blood tests, liver function test, sometimes ultrasound.  
 **Treatment&nbsp;:** Rest, fluids, symptomatic care — usually recovers in 2–6 weeks.  
-**Vaccine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** Needed for travelers to high-risk areas, close contacts, people with chronic liver diseases.
+**Vaccine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** Needed for travelers to high-risk areas, close contacts, people with chronic liver diseases.
 
 ---
