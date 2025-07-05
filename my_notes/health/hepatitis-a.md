@@ -90,10 +90,10 @@
 
 ## 📘 English Quick Summary
 
-**<pre>Spread    :</pre>** Through infected food/water, poor hygiene.  
-**<pre>Prevention:</pre>** Handwashing, safe drinking water, clean food.  
-**<pre>Diagnosis :</pre>** Blood tests, liver function test, sometimes ultrasound.  
-**<pre>Treatment :</pre>** Rest, fluids, symptomatic care — usually recovers in 2–6 weeks.  
-**<pre>Vaccine   :</pre>** Needed for travelers to high-risk areas, close contacts, people with chronic liver diseases.
+**Spread&nbsp;&nbsp;&nbsp;&nbsp;:** Through infected food/water, poor hygiene.  
+**Prevention:** Handwashing, safe drinking water, clean food.  
+**Diagnosis&nbsp;:** Blood tests, liver function test, sometimes ultrasound.  
+**Treatment&nbsp;:** Rest, fluids, symptomatic care — usually recovers in 2–6 weeks.  
+**Vaccine&nbsp;&nbsp;&nbsp;:** Needed for travelers to high-risk areas, close contacts, people with chronic liver diseases.
 
 ---
