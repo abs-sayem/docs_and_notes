@@ -44,11 +44,11 @@
   </tr>
   <tr>
     <td>হাত ধোয়া</td>
-    <td>টয়লেট ব্যবহারের পরে, রান্নার আগে ও খাওয়ার আগে **সাবান-পানি** দিয়ে ভালোভাবে হাত ধুতে হবে।</td>
+    <td>টয়লেট ব্যবহারের পরে, রান্নার আগে ও খাওয়ার আগে <b>সাবান-পানি</b> দিয়ে ভালোভাবে হাত ধুতে হবে।</td>
   </tr>
   <tr>
     <td>বিশুদ্ধ পানি পান</td>
-    <td>সরাসরি কলের পানি না খেয়ে **সিদ্ধ পানি** বা ফিল্টার পানি পান করুন।</td>
+    <td>সরাসরি কলের পানি না খেয়ে <b>সিদ্ধ পানি</b> বা ফিল্টার পানি পান করুন।</td>
   </tr>
   <tr>
     <td>খাবার পরিষ্কার রাখা</td>
@@ -90,10 +90,10 @@
 
 ## 📘 English Quick Summary
 
-**> Spread:** Through infected food/water, poor hygiene.  
-**> Prevention:** Handwashing, safe drinking water, clean food.  
-**> Diagnosis:** Blood tests, liver function test, sometimes ultrasound.  
-**> Treatment:** Rest, fluids, symptomatic care — usually recovers in 2–6 weeks.  
-**> Vaccine:** Needed for travelers to high-risk areas, close contacts, people with chronic liver diseases.
+**Spread:** Through infected food/water, poor hygiene.  
+**Prevention:** Handwashing, safe drinking water, clean food.  
+**Diagnosis:** Blood tests, liver function test, sometimes ultrasound.  
+**Treatment:** Rest, fluids, symptomatic care — usually recovers in 2–6 weeks.  
+**Vaccine:** Needed for travelers to high-risk areas, close contacts, people with chronic liver diseases.
 
 ---
