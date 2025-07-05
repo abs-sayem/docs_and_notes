@@ -97,3 +97,18 @@
 **Vaccine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** Needed for travelers to high-risk areas, close contacts, people with chronic liver diseases.
 
 ---
+
+## 📘 English Quick Summary
+
+<dl>
+  <dt>Spread</dt>
+  <dd>Through infected food/water, poor hygiene.</dd>
+  <dt>Prevention</dt>
+  <dd>Handwashing, safe drinking water, clean food.</dd>
+  <dt>Diagnosis</dt>
+  <dd>Blood tests, liver function test, sometimes ultrasound.</dd>
+  <dt>Treatment</dt>
+  <dd>Rest, fluids, symptomatic care — usually recovers in 2–6 weeks.</dd>
+  <dt>Vaccine</dt>
+  <dd>Needed for travelers to high-risk areas, close contacts, people with chronic liver diseases.</dd>
+</dl>
