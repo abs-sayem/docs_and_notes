@@ -111,17 +111,17 @@
 <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; text-align: center;">
   <thead>
     <tr style="background-color:#f0f0f0; font-weight: bold;">
-      <th colspan="2">🧄 মসলা গাছের সাজেশন</th>
+      <th colspan="2" style="font-size: 18px;">🧄 মসলা গাছের সাজেশন</th>
       <th> | </th>
-      <th style="border-left: 3px solid #333;" colspan="3">🥬 শাক–সবজির সাজেশন</th>
+      <th style="border-left: 3px solid #333; font-size: 18px;" colspan="3">🥬 শাক–সবজির সাজেশন</th>
     </tr>
     <tr>
-      <th>মসলা</th>
-      <th>বৈশিষ্ট্য</th>
+      <th style="font-size: 16px;">মসলা</th>
+      <th style="font-size: 16px;">বৈশিষ্ট্য</th>
       <th> | </th>
-      <th style="border-left: 3px solid #333;">শীতকাল</th>
-      <th>গ্রীষ্মকাল</th>
-      <th>বর্ষাকাল</th>
+      <th style="border-left: 3px solid #333; font-size: 16px;">শীতকাল</th>
+      <th style="font-size: 16px;">গ্রীষ্মকাল</th>
+      <th style="font-size: 16px;">বর্ষাকাল</th>
     </tr>
   </thead>
   <tbody>
