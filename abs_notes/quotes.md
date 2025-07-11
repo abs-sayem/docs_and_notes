@@ -12,3 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;5. If you wanna go fast go alone, but if you want to go far go together.<br> - **`Steve Jobs`**
 
 5. Science is Philosophy - but with proof. - `Sofiyan Alam`
+
+6. You can do what you will, but you cannot will what you will. - `Schopenhauer`
+- Means - You are free to do what you want, but you don't choose what you want.
+- Means - We can act freely within our desires, but our desires themselves aren't always under our conscious control - they come from deeper forces inside us.
