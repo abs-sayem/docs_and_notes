@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Interactive Family Tree</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body { font-family: 'Candara', 'Trebuchet MS'; }
+    .node circle { fill: #000000ee; stroke: #020101c5; stroke-width: 2px; }
+    .node text { font-size: 12px; pointer-events: none; }
+    .tooltip {
+      position: absolute;
+      background: #fffffff5;
+      border: 1px solid #00000015;
+      padding: 8px;
+      border-radius: 5px;
+      pointer-events: none;
+      box-shadow: 0 0 6px rgba(0, 0, 0, 0.253);
+    }
+  </style>
+</head>
+<body>
+  <h2 style="text-align: center;">Family Tree</h2>
+  <svg width="100%" height="auto"></svg>
+  <script>
+    const data = {
+      name: "Abu Jafar Md. Saleh",
+      img:"assets/image/photo.jpeg",
+      dob: "01/01/1965",
+      spouse: {
+        name: "Khadeja Begum",
+        dob: "01/01/1975"
+      },
+      children: [
+        {
+          name: "Khaleda Nahar Bristy",
+          dob: "01/01/1990",
+          spouse: { name: "Belal Hosen" },
+          children: [
+            { name: "Shila", dob: "01/01/2011" },
+            { name: "Shoily", dob: "01/01/2014" },
+            { name: "Takrim", dob: "01/01/2018" },
+            { name: "Nowrin", dob: "01/01/2021" }
+          ]
+        },
+        {
+          name: "Md Abu Bakar Siddiq Sayem",
+          img:"assets/image/mine_blur.jpg",
+          dob: "01/01/1994",
+          spouse: { name: "Maharunnessa", dob: "27/02/2003"},
+        },
+        {
+          name: "Md Abu Ayub Shakib",
+          dob: "01/01/1997"
+        },
+        {
+          name: "Ainunnahar Dolon",
+          dob: "01/01/2000",
+          spouse: { name: "Monzur Rahman" },
+          children: [
+            { name: "Akil", dob: "01/01/2016" },
+            { name: "Mabruka", dob: "01/01/2020" },
+            { name: "Mahzuba", dob: "01/01/2023" }
+          ]
+        },
+        { name: "Fahim Montasir Shihab", dob: "01/01/2003" },
+        { name: "Shahin Motasim Saif", dob: "01/01/2008" }
+      ]
+    };
+
+    //const treeLayout = d3.tree().size([1200, 400]);
+    //const root = d3.hierarchy(data, d => d.children);
+    //treeLayout(root);
+
+    const root = d3.hierarchy(data, d => d.children);
+    const nodeCount = root.descendants().length;
+    const depth = root.height + 1;
+    const width = nodeCount * 96;   // adjust horizontal spacing per node
+    const height = depth * 150;      // adjust vertical spacing per generation
+    const treeLayout = d3.tree().size([width, height]);
+    treeLayout(root);
+    // Update SVG size based on calculated width and height
+    d3.select("svg")
+      .attr("width", width + 100)
+      .attr("height", height + 100);
+
+
+    const svg = d3.select("svg");
+    const g = svg.append("g").attr("transform", "translate(50,50)");
+
+    g.selectAll("line.link")
+      .data(root.links())
+      .join("line")
+      .attr("class", "link")
+      .attr("x1", d => d.source.x)
+      .attr("y1", d => d.source.y)
+      .attr("x2", d => d.target.x)
+      .attr("y2", d => d.target.y)
+      .attr("stroke", "#999");
+
+    const tooltip = d3.select("body").append("div")
+      .attr("class", "tooltip")
+      .style("opacity", 0.5);
+
+    const nodes = g.selectAll("g.node")
+      .data(root.descendants())
+      .join("g")
+      .attr("class", "node")
+      .attr("transform", d => `translate(${d.x},${d.y})`);
+
+    nodes.append("circle")
+      .attr("r", 20)
+      .on("mouseover", (event, d) => {
+        let text = `<img src=${d.data.img} alt="Profile Photo" width="80" height="80"/>
+                    <br><strong>${d.data.name}</strong><br>DOB: ${d.data.dob || 'N/A'}`;
+        if (d.data.spouse) text += `<br>Spouse: <strong>${d.data.spouse.name}</strong><br>DOB: ${d.data.spouse.dob || 'N/A'}`;
+        tooltip.html(text)
+          .style("left", event.pageX + 15 + "px")
+          .style("top", event.pageY - 28 + "px")
+          .style("opacity", 0.9);
+      })
+      .on("mouseout", () => tooltip.style("opacity", 0));
+
+    nodes.append("text")
+      .attr("dy", 4)
+      .attr("y", 30)
+      .attr("text-anchor", "middle")
+      .style("font-weight", "bold")
+      .text(d => d.data.name);
+  </script>
+</body>
+</html>

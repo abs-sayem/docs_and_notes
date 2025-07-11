@@ -1,0 +1,44 @@
+{
+  "name": "Abu Jafar Md. Saleh",
+  "img": "assets/image/photo.jpeg",
+  "dob": "01/01/1965",
+  "spouse": {
+    "name": "Khadeja Begum",
+    "dob": "01/01/1975"
+  },
+  "children": [
+    {
+      "name": "Khaleda Nahar Bristy",
+      "dob": "01/01/1990",
+      "spouse": { "name": "Belal Hosen" },
+      "children": [
+        { "name": "Shila", "dob": "01/01/2011" },
+        { "name": "Shoily", "dob": "01/01/2014" },
+        { "name": "Takrim", "dob": "01/01/2018" },
+        { "name": "Nowrin", "dob": "01/01/2021" }
+      ]
+    },
+    {
+      "name": "Md Abu Bakar Siddiq Sayem",
+      "img": "assets/image/mine_blur.jpg",
+      "dob": "01/01/1994",
+      "spouse": { "name": "Maharunnessa", "dob": "27/02/2003" }
+    },
+    {
+      "name": "Md Abu Ayub Shakib",
+      "dob": "01/01/1997"
+    },
+    {
+      "name": "Ainunnahar Dolon",
+      "dob": "01/01/2000",
+      "spouse": { "name": "Monzur Rahman" },
+      "children": [
+        { "name": "Akil", "dob": "01/01/2016" },
+        { "name": "Mabruka", "dob": "01/01/2020" },
+        { "name": "Mahzuba", "dob": "01/01/2023" }
+      ]
+    },
+    { "name": "Fahim Montasir Shihab", "dob": "01/01/2003" },
+    { "name": "Shahin Motasim Saif", "dob": "01/01/2008" }
+  ]
+}
