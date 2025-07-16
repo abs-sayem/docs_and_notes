@@ -1,16 +1,16 @@
 # My E-Return Information (From 2024-2025)
 
-### My Tin Info
+### My Tin Info!
 ---
-Tin: 522547272876
-Pass: Ereturn@1______4
+**Tin :** 522547272876<br>
+**Pass:** Ereturn@1______4
 
 ---
 
-### Important Links
+### Important Links!
 ---
-* [National Board of Revenue, Bangladesh (জাতীয় রাজস্ব বোর্ড)](https://etaxnbr.gov.bd/)
-* [ই-রিটার্ন নির্দেশিকা](https://nbr.gov.bd/)
+* [National Board of Revenue, Bangladesh (জাতীয় রাজস্ব বোর্ড)](https://etaxnbr.gov.bd/) - E-Reuturn submission link.
+* [ই-রিটার্ন নির্দেশিকা](https://nbr.gov.bd/) - All the new updates will be available here. Do check before going to hit e-return.
 
 ---
 
