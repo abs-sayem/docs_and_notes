@@ -10,7 +10,7 @@
 ### Important Links!
 ---
 * [National Board of Revenue, Bangladesh (জাতীয় রাজস্ব বোর্ড)](https://etaxnbr.gov.bd/) - E-Reuturn submission link.
-* [ই-রিটার্ন নির্দেশিকা](https://nbr.gov.bd/) - All the new updates will be available here. Do check before going to hit e-return.
+* [ই-রিটার্ন নির্দেশিকা](https://nbr.gov.bd/) - All the new updates will be available here. `Do check before going to hit e-return.`
 
 ---
 
