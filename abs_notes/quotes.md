@@ -20,12 +20,12 @@
 7. Not all educated person are good, but a leader should always be an educated person.
 
 8. **SRK Quotes -**
-- You have to be lonely to be successful.
-- Success is not a good teacher, failure makes you humble.
-- Don't become a Philosopher before you become rich.
-- It's okay to be confused. Confusion is the route to all the clarity in the world.
-- I work like a slave so that I can live like a king.
-- There is no such thing as 'normal'. Normal is just another word of lifeless.
-- Sometimes, it's not the people who change, it's the mask that fall off.
-- I'm living proof that dreams do come true.
-- If you don't like my movies, it's okay. I don't like them either sometimes.
+    - You have to be lonely to be successful.
+    - Success is not a good teacher, failure makes you humble.
+    - Don't become a Philosopher before you become rich.
+    - It's okay to be confused. Confusion is the route to all the clarity in the world.
+    - I work like a slave so that I can live like a king.
+    - There is no such thing as 'normal'. Normal is just another word of lifeless.
+    - Sometimes, it's not the people who change, it's the mask that fall off.
+    - I'm living proof that dreams do come true.
+    - If you don't like my movies, it's okay. I don't like them either sometimes.
