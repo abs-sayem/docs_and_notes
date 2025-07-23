@@ -29,3 +29,5 @@
     - Sometimes, it's not the people who change, it's the mask that fall off.
     - I'm living proof that dreams do come true.
     - If you don't like my movies, it's okay. I don't like them either sometimes.
+
+9. A man's greatest trial is to see women, and a women's biggest trial is being seen.
