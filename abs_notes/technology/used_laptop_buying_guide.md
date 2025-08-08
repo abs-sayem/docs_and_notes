@@ -11,7 +11,12 @@
     - Open a text editor and check all the keys are prefectly working.
     - Can check by using any online keyboard checker.
 5. **Ports:** (USB, Audio, HDMI) Carry the relatable accessories (like - pendrive, earphone) to check them.
-6. **Drive Health:** Can use portable `Crystal Disk Info` application.
+6. **Drive Health:**
+    - Open Powershell as Administrator and run:
+
+        Get-PhysicalDisk | Select FriendlyName, HealthStatus, OperationalStatus
+
+    - Can use portable `Crystal Disk Info` application to check in detail.
 7. **CPU and GPU:**
     - Portable apps like `CPU-Z` for cpu and `GPU-Z` for gpu.
     - Windows default `System Information` app have a certain level of information as well.
