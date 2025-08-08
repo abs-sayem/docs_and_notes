@@ -13,9 +13,9 @@
 5. **Ports:** (USB, Audio, HDMI) Carry the relatable accessories (like - pendrive, earphone) to check them.
 6. **Drive Health:**
     - Open Powershell as Administrator and run:
-
+        ```
         Get-PhysicalDisk | Select FriendlyName, HealthStatus, OperationalStatus
-
+        ```
     - Can use portable `Crystal Disk Info` application to check in detail.
 7. **CPU and GPU:**
     - Portable apps like `CPU-Z` for cpu and `GPU-Z` for gpu.
