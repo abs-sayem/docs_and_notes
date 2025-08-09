@@ -10,3 +10,5 @@
 * Go to **`Control Panel`** ==> **`Hardware and Sound`** ==> **`Power Options`** ==> **`Choose what the power buttons do`**
 * Go to **`Change settings that are currently unavailable`**
 * Check **`Hibernate`** under Shutdown settings ==> **Save changes**
+
+---
