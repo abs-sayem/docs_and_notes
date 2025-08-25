@@ -15,8 +15,8 @@
 5. Science is Philosophy - but with proof. - `Sofiyan Alam`
 
 6. You can do what you will, but you cannot will what you will. - `Schopenhauer`
-    - Means - You are free to do what you want, but you don't choose what you want.
-    - Means - We can act freely within our desires, but our desires themselves aren't always under our conscious control - they come from deeper forces inside us.
+    > Means - You are free to do what you want, but you don't choose what you want.<br>
+    > Means - We can act freely within our desires, but our desires themselves aren't always under our conscious control - they come from deeper forces inside us.
 
 7. Not all educated person are good leader, but a leader should always be an educated person.
 
