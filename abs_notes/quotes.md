@@ -34,9 +34,15 @@
 
 10. At 18 she has choices. At 18 you have nothing.<br>
     At 25 she looks for love. At 25 you are chasing goals.<br>
-    At 30 she slows dows. At 30 you are just getting started.<br>
+    At 30 she slows down. At 30 you are just getting started.<br>
     Dear Son,<br>
     A woman's life starts at 18. A man's life starts at 30.<br>
     A woman is born with value. A man is born with no value.<br>
     She has to protect her value. You have to build your value.<br>
     I didn't make the rules, nature did.
+
+11. If you are kind, people may accuse you of selfish ulterior motives. Be kind anyway.<br>
+    What you spend years building, someone could destroy overnight. Build anyway.<br>
+    The good you do today, people will often forget tomorrow. Do good anyway.<br>
+    Give the world the best you have, and it may never be enough. Give the world the best you've got anyway.<br>
+    You see, in the final analysis, it is between you and your god anyway.
