@@ -8,8 +8,8 @@
     1. Don't educate your children to be rich; educate them to be happy so that when they grow up they will know the value of things and not their price.<br>
     2. Eat your food as medicine, otherwise, you will have to eat your medicine as food.<br>
     3. The one who loves you will never leave you even if you have 100 reasons to give up, you will always find a reason to hold on.<br>
-    4. There is a big difference between being a human and being human<br>
-    5. If you want to go fast, go alone; but if you want to go far go together.<br> - **`Steve Jobs`**
+    4. There is a big difference between being a human and being human.<br>
+    5. If you want to go fast, go alone; but if you want to go far go together.<br> **`Steve Jobs`**
 
 5. Science is Philosophy - but with proof. - `Sofiyan Alam`
 
