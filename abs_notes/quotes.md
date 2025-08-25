@@ -4,12 +4,12 @@
 
 3. The married ones are thinking of divorce while the unmarried ones wish to be married, the unknown crave fame while the famous just want privacy, the young want to grow old while the old wish they could turn back time, the poor want to become rich and the rich - they spend their nights wishing for the peace they lost chasing wealth, the healthy take their bodies for granted while the sick would give anything for just one more day without pain, you see - the grass always seems greener but nothing grows without watering what's already yours. The truth is - no one has it all but everyone has enough if only they stopped and took a moment to see it. - **`CapitalFortunes`**
 
-4. All the recognitions and wealth are insignificant in the presence of imminent death. As we get older we get smarter and we slowly understand that whether the clock is worth $30 or $300 they both show the exact same time, whether we drive $150000 car or a $2000 car we will arrive at the same destination. There are five facts that cannot be denied - <br>
-    1. Don't educate your children to be rich educate them to be happy so that when they grow up they will know the value of things and not their price.<br>
+4. All the recognitions and wealth are insignificant in the face of imminent death. As we get older, we get smarter and we slowly understand that whether the clock is worth $30 or $300, they both show the exact same time, whether we drive $150000 car or a $2000 car we will arrive at the same destination. There are five facts that cannot be denied:<br>
+    1. Don't educate your children to be rich; educate them to be happy so that when they grow up they will know the value of things and not their price.<br>
     2. Eat your food as medicine, otherwise, you will have to eat your medicine as food.<br>
     3. The one who loves you will never leave you even if you have 100 reasons to give up, you will always find a reason to hold on.<br>
     4. There is a big difference between being a human and being human<br>
-    5. If you wanna go fast go alone, but if you want to go far go together.<br> - **`Steve Jobs`**
+    5. If you want to go fast, go alone; but if you want to go far go together.<br> - **`Steve Jobs`**
 
 5. Science is Philosophy - but with proof. - `Sofiyan Alam`
 
