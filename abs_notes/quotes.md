@@ -31,3 +31,12 @@
     - If you don't like my movies, it's okay. I don't like them either sometimes.
 
 9. A man's greatest trial is to see women, and a women's biggest trial is being seen.
+
+10. At 18 she has choices. At 18 you have nothing.
+    At 25 she looks for love. At 25 you are chasing goals.
+    At 30 she slows dows. At 30 you are just getting started.
+    Dear Son,
+    A woman's life starts at 18. A man's life starts at 30.
+    A woman is born with value. A man is born with no value.
+    She has to protect her value. You have to build your value.
+    I didn't make the rules, nature did.
