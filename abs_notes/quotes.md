@@ -53,3 +53,5 @@
     The good you do today, people will often forget tomorrow. Do good anyway.<br>
     Give the world the best you have, and it may never be enough. Give the world the best you've got anyway.<br>
     You see, in the final analysis, it is between you and your god anyway.
+
+12. People earn money, they don't make money. - `Salman Muqtadir`
