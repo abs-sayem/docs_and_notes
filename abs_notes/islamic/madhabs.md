@@ -111,8 +111,10 @@
 **`যদি নবী ﷺ এর কোনো স্পষ্ট ও সহিহ নির্দেশনা পাওয়া যায়, তাহলে সেটা গ্রহণ করাই সঠিক — মাযহাব যেটাই হোক না কেন। এটাই ইমামরা আমাদের শিখিয়েছেন।`**
 
 
+---
 
 ---
+
 
 You're praying in the mosque. You say "Ameen" aloud, the person beside you says it quietly. You raise your hands in salah, he doesn’t. You glance at each other, wondering—am I wrong, or is he? This confusion arises from the differences between **madhabs**.
 
