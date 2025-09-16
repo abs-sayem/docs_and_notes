@@ -55,3 +55,5 @@
     You see, in the final analysis, it is between you and your god anyway.
 
 12. People earn money, they don't make money. - `Salman Muqtadir`
+
+13. Anyone can say the right words, but not everyone will follow through. If you really want to know how much someone cares, don't just listen, watch how they show up for you. Actions will always reveal what words try to hide.
