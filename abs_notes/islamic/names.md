@@ -36,37 +36,37 @@
 <table>
     <tr>
         <th colspan="2">Boy Names</th>
-        <th>--</th>
+        <th><></th>
         <th colspan="2">Girl Names</th>
     </tr>
     <tr>
         <th>Primary Name</th><th>Nick Name</th>
-        <th>--</th>
+        <th><></th>
         <th>Primary Name</th><th>Nick Name</th>
     </tr>
     <tr>
         <td>Raiyan Siddiq</td><td>Maham</td>
-        <td>--</td>
+        <td><></td>
         <td>Mahreen Siddiq</td><td>Laiba</td>
     </tr>
     <tr>
         <td></td><td></td>
-        <td>--</td>
+        <td><></td>
         <td>Maharun Siddiq</td><td>Saiba</td>
     </tr>
     <tr>
         <td></td><td></td>
-        <td>--</td>
+        <td><></td>
         <td>Mehwish Siddiq</td><td>Aaina</td>
     </tr>
     <tr>
         <td></td><td></td>
-        <td>--</td>
+        <td><></td>
         <td>Mahira Siddiq</td><td></td>
     </tr>
     <tr>
         <td></td><td></td>
-        <td>--</td>
+        <td><></td>
         <td>Zunaira Siddiq</td><td></td>
     </tr>
 </table>
