@@ -23,7 +23,7 @@
             <td><strong>Mahira (মাহিরা)</strong> - Intelligence, Talented, Excellence</td>
         </tr>
         <tr>
-            <td><strong>Zunair (জুনাইর) / Zuhayr (জুহাইর)</strong>Zunair - Enlighten; Zuhayr - Bloomed, Brighest</td>
+            <td><strong>Zunair (জুনাইর)</strong> - Enlighten <br> <strong>Zuhayr (জুহাইর)</strong> - Bloomed, Brighest</td>
             <td><strong>Zunaira (জুনাইরা)</strong> - Flower of Paradise</td>
         </tr>
     </tbody>
