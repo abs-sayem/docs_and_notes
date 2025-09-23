@@ -36,12 +36,12 @@
 <table>
     <tr>
         <th colspan="2">Boy Names</th>
-        <th><></th>
+        <td><></td>
         <th colspan="2">Girl Names</th>
     </tr>
     <tr>
         <th>Primary Name</th><th>Nick Name</th>
-        <th><></th>
+        <td><></td>
         <th>Primary Name</th><th>Nick Name</th>
     </tr>
     <tr>
