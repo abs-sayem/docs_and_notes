@@ -29,7 +29,7 @@
     </tbody>
 </table>
 
-***
+---
 
 ### **Sample Names**
 
@@ -44,9 +44,6 @@
     </tr>
     <tr>
         <td>Raiyan Siddiq</td><td>Maham</td>
-    </tr>
-    <tr>
-        <td></td><td></td>
         <td>Mahreen Siddiq</td><td>Laiba</td>
     </tr>
     <tr>
@@ -66,8 +63,3 @@
         <td>Zunaira Siddiq</td><td></td>
     </tr>
 </table>
-01. Mahreen Siddiq Laiba
-02. Maharun Siddiq Saiba
-03. Mehwish Siddiq Aaina
-04. Mahira Siddiq Xxxxx
-05. Zunaira Siddiq Xxxxx
