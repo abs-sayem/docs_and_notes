@@ -11,11 +11,11 @@
             <td><strong>Aaina (আইনা)</strong> - Women with large eyes (হুর), beauty, depth, wisdom</td>
         </tr>
         <tr>
-            <td><strong>Labib (লাবিব)</strong></td>
+            <td><strong>Labeed (লাবিদ)</strong> - Perpetual, Abiding, Rigid</td>
             <td><strong>Laiba (লাইবা)</strong> - Angel of Haven (জান্নাতের নারী / হুর), Purity, Beauty, Devine Grace</td>
         </tr>
         <tr>
-            <td><strong>Sabib (সাবিব)</strong></td>
+            <td><strong>Sabir (সাবির)</strong> - Patient, Enduring</td>
             <td><strong>Saiba (সাইবা)</strong> - Reasonable, Intelligent, Wise</td>
         </tr>
         <tr>
