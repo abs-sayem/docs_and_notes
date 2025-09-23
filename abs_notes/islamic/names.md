@@ -19,11 +19,11 @@
             <td><strong>Saiba (সাইবা)</strong> - Reasonable, Intelligent, Wise</td>
         </tr>
         <tr>
-            <td><strong></strong></td>
+            <td><strong>Maham (মাহাম)</strong> - Great, Glorious, Full of Majesty</td>
             <td><strong>Mahira (মাহিরা)</strong> - Intelligence, Talented, Excellence</td>
         </tr>
         <tr>
-            <td><strong></strong></td>
+            <td><strong>Zunair (জুনাইর) / Zuhayr (জুহাইর)</strong>Zunair - Enlighten; Zuhayr - Bloomed, Brighest</td>
             <td><strong>Zunaira (জুনাইরা)</strong> - Flower of Paradise</td>
         </tr>
     </tbody>
@@ -32,6 +32,40 @@
 ***
 
 ### **Sample Names**
+
+<table>
+    <tr>
+        <th colspan="2">Boy Names</th>
+        <th colspan="2">Girl Names</th>
+    </tr>
+    <tr>
+        <th>Primary Name</th><th>Nick Name</th>
+        <th>Primary Name</th><th>Nick Name</th>
+    </tr>
+    <tr>
+        <td>Raiyan Siddiq</td><td>Maham</td>
+    </tr>
+    <tr>
+        <td></td><td></td>
+        <td>Mahreen Siddiq</td><td>Laiba</td>
+    </tr>
+    <tr>
+        <td></td><td></td>
+        <td>Maharun Siddiq</td><td>Saiba</td>
+    </tr>
+    <tr>
+        <td></td><td></td>
+        <td>Mehwish Siddiq</td><td>Aaina</td>
+    </tr>
+    <tr>
+        <td></td><td></td>
+        <td>Mahira Siddiq</td><td></td>
+    </tr>
+    <tr>
+        <td></td><td></td>
+        <td>Zunaira Siddiq</td><td></td>
+    </tr>
+</table>
 01. Mahreen Siddiq Laiba
 02. Maharun Siddiq Saiba
 03. Mehwish Siddiq Aaina
