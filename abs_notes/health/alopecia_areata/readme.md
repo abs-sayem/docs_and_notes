@@ -7,6 +7,13 @@ Alopecia Areata is an autoimmune condition that causes hair loss. It occurs when
 
 
 ### **Treatment of Alopecia Areata**
+
+```
+Dr. Arafat
+Dermatology, Outer Division
+Chittagong Medical College(CMC)
+```
+
 <table>
     <tr>
         <th>Appointment Date</th>
