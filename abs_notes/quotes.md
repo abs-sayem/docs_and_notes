@@ -60,11 +60,4 @@
 
 14. Findings faults in anything - like that fly that ignores the whole body and sits only on the wound.
 
-15. 7 real luxuries of life:
-    1. **Supporting Parents**
-    2. **Healthy Body**
-    3. **Self Respect**
-    4. **Loyal Friends**
-    5. **Freedom**
-    6. **Peaceful Mind**
-    7. **Calm Morning**
+15. 7 real luxuries of life - Supporting Parents, Healthy Body, Self Respect, Loyal Friends, Freedom, Peaceful Mind, Calm Morning.
