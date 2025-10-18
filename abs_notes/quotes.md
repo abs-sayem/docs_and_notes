@@ -57,3 +57,14 @@
 12. People earn money, they don't make money. - `Salman Muqtadir`
 
 13. Anyone can say the right words, but not everyone will follow through. If you really want to know how much someone cares, don't just listen, watch how they show up for you. Actions will always reveal what words try to hide.
+
+14. Findings faults in anything - like that fly that ignores the whole body and sits only on the wound.
+
+15. 7 real luxuries of life:
+    1. **Supporting Parents**
+    2. **Healthy Body**
+    3. **Self Respect**
+    4. **Loyal Friends**
+    5. **Freedom**
+    6. **Peaceful Mind**
+    7. **Calm Morning**
